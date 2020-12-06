@@ -1,5 +1,5 @@
 # LINK DE ACESSO A VERSÃO FINAL
-https://diogo__.js.gitlab.io/s_js-katas-3/
+https://dgsantos017.github.io/Praticando-com-js-parte-3/
 
 # Entrega: Katas de JavaScript 3
 
