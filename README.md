@@ -1,19 +1,9 @@
 # LINK DE ACESSO A VERSÃO FINAL
 https://dgsantos017.github.io/Praticando-com-js-parte-3/
 
-# Entrega: Katas de JavaScript 3
-
-## Visão Geral
-
-Para começar, acesse [este link](https://gitlab.com/kenzie-academy-brasil/se/fe/getting-started-with-javascript/s_js-katas-3), faça o fork e clone o repo. Depois preencha os arquivos `index.html` e `katas3.js` de acordo com o que se pede.
+# Katas de JavaScript 3
 
 Você irá criar uma única página web com um cabeçalho identificado para cada kata seguido de sua solução. Nesses katas, em vez de usar `console.log()` ou `document.write()`, você **precisa** inserir seus resultados no HTML usando os métodos `document.createElement()` e `node.appendChild()`.
-
-A maneira mais fácil de começar é copiando o arquivo de exemplo da **Mini-Aula: Inserindo novos elementos em uma Página**. Você pode copiar e colar o código que está incorporado na aula.
-
-Você pode continuar adicionando cada novo kata no final da página.
-
-## Katas 
 
 ### Nesse katas nós não vamos utilizar métodos de iteração de array(forEach, map, filter, reduce, sort...) e nem (math min, math max).
 
@@ -36,22 +26,10 @@ Você pode continuar adicionando cada novo kata no final da página.
 15. Exibir a soma de todos os números de 1 a 20.
 16. Exibir a soma de todos os elementos de sampleArray.
 17. Exibir o menor elemento de sampleArray.
-18. Exibir o maior elemento de sampleArray.
+18. Exibir o maior elemento de sampleArray
+19. Exibir 20 retângulos cinza sólido, cada um com 20px de altura e 100px de largura.
+20. Exibir 20 retângulos cinza sólido, cada um com 20px de altura e larguras variando uniformemente de 105px, 110px a 200px.
+21. Exibir 20 retângulos cinza sólido, cada um com 20px de altura e com larguras em pixels determinadas pelos 20 elementos do sampleArray.
+22. Como no Bônus #3, mas alternando cores para que retângulo sim, retângulo não seja vermelho.
+23. Como no Bônus #3, mas pinte os retângulos de largura par de vermelho.
 
-### Bônus
-
-Se você gosta de um desafio extra, tente completar cada um dos itens acima novamente _sem usar_ quaisquer loops `for` ou `while`.
-
-### *Opcional* Bônus (5 pontos)
-
-*Estes problemas envolvem o uso de estilização CSS, e exigem um certo conhecimento de CSS para serem completados. Iremos cobrir isso mais adiante, mas sinta-se a vontade para fazer uma pesquisa por conta própria se quiser ganhar alguns pontos extras!*
-
-1. Exibir 20 retângulos cinza sólido, cada um com 20px de altura e 100px de largura.
-2. Exibir 20 retângulos cinza sólido, cada um com 20px de altura e larguras variando uniformemente de 105px, 110px a 200px.
-3. Exibir 20 retângulos cinza sólido, cada um com 20px de altura e com larguras em pixels determinadas pelos 20 elementos do sampleArray.
-4. Como no Bônus #3, mas alternando cores para que retângulo sim, retângulo não seja vermelho.
-5. Como no Bônus #3, mas pinte os retângulos de largura par de vermelho.
-
-### Envio
-
-Faça o push do código para o seu repositório GitLab e implemente-o via GitLab pages. No Canvas, por favor, ** envie sua url do Gitlab Pages (ex: https://nomedeusuario.gitlab.io/s\_js-katas-3/) ** e, no GitLab, adicione o grupo `ka-br-<sua-turma>-correcoes` como membro do seu projeto com a permissão "Reporter".
